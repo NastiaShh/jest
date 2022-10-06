@@ -1,5 +1,5 @@
 ### Задание
-Решите минимум 3/5 задач на codewars и напишите для них тесты. Для примера советуем ознакомиться как написаны тесты [в грок-спринт](https://github.com/Elbrus-Bootcamp/grok-js-base/).
+Решите минимум 3/5 задач на codewars и напишите для них тесты. Для примера советуем ознакомиться как написаны тесты в [грок-спринт](https://github.com/Elbrus-Bootcamp/grok-js-base/).
 
 - [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 - [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732/train/javascript)
